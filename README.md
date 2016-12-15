@@ -1,4 +1,5 @@
-[![Stories in Ready](https://badge.waffle.io/wizzup/battleground.png?label=ready&title=Ready)](https://waffle.io/wizzup/battleground)
+[![Stories in Ready](https://badge.waffle.io/wizzup/battleground.png?label=ready&title=Ready)](https://waffle.io/wizzup/battleground) [![Build Status](https://travis-ci.org/wizzup/battleground.svg?branch=master)](https://travis-ci.org/wizzup/battleground)
+
 ## BattleGround
 
 ### Status: Alpha/Planing
